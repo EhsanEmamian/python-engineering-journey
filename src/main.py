@@ -1,8 +1,13 @@
-import requests
+import logging
+from core.cli import run
+
+
+logging.basicConfig(level=logging.INFO)
+
 
 def main():
-    response = requests.get("https://httpbin.org/get")
-    print(response.status_code)
+    run()
+
 
 if __name__ == "__main__":
     main()
