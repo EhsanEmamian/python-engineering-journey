@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/main.py
+src/core/__init__.py
+src/core/cli.py
+src/core/number_analyzer.py
+src/python_engineering_journey.egg-info/PKG-INFO
+src/python_engineering_journey.egg-info/SOURCES.txt
+src/python_engineering_journey.egg-info/dependency_links.txt
+src/python_engineering_journey.egg-info/requires.txt
+src/python_engineering_journey.egg-info/top_level.txt
+tests/test_number_analyzer.py

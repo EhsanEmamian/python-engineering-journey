@@ -1,4 +1,4 @@
-from src.core.number_analyzer import analyze_number
+from core.number_analyzer import analyze_number
 
 
 def test_analyze_number_even_positive():
