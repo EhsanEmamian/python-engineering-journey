@@ -19,6 +19,16 @@ def run():
         action="store_true",
         help="Enable verbose output"
     )
+    parser.add_argument(
+    "--square-root",
+    action="store_true",
+    help="Print square root of the number"
+)
+    parser.add_argument(
+    "--abs",
+    action="store_true",
+    help="Print absolute value"
+)
 
     args = parser.parse_args()
 
@@ -29,4 +39,4 @@ def run():
 
     logging.info("Analysis result:")
     for key, value in result.items():
-        logging.info(f"{key}: {value}")
+        logging.info(f"{key}: {value}") 
