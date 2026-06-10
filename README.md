@@ -42,4 +42,4 @@ Run Tests
 pytest -q
 Purpose
 
-This project is part of a long-term backend engineering learning path focused on clean structure, testing, and production-oriented thinking
+This project is part of a long-term backend engineering learning path focused on clean structure, testing, and production-oriented thinkng
