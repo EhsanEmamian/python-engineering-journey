@@ -1,6 +1,6 @@
 # Python Engineering Journey
 
-A structured learning project for building Python backend engineering fundamentals.
+A structured learning project for building Python backend engineering fundamentals
 
 ## Features
 
